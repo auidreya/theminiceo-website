@@ -1,0 +1,23 @@
+
+<div class="w-[1384px] h-[69px] justify-between items-center inline-flex">
+    <div class="w-[190px] h-[68px] justify-center items-center flex">
+        <img class="w-[94px] h-[94px]" src="https://via.placeholder.com/94x94" />
+    </div>
+    <div class="w-[456px] h-[70px] justify-start items-center gap-8 flex">
+        <div class="px-3 py-6 justify-start items-start flex">
+            <div class="text-black text-sm font-normal font-['Inter'] leading-[21px]">About</div>
+        </div>
+        <div class="px-3 py-6 justify-start items-start flex">
+            <div class="text-black text-sm font-normal font-['Inter'] leading-[21px]">Features</div>
+        </div>
+        <div class="px-3 py-6 justify-start items-start flex">
+            <div class="text-black text-sm font-normal font-['Inter'] leading-[21px]">Pricing</div>
+        </div>
+        <div class="px-5 py-2 bg-black justify-center items-center gap-2 flex">
+            <div class="text-white text-xs font-medium font-['Inter'] leading-none">GET STARTED</div>
+        </div>
+    </div>
+</div>
+
+<img class="w-[1440px] h-[624px]" src="https://via.placeholder.com/1440x624" />
+
